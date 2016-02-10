@@ -86,28 +86,31 @@
                         <table id="datatable_tabletools" class="table table-striped table-bordered table-hover table-responsive" width="100%">
                             <thead>
                                 <tr>
-                                    <th>DDDDDDDDD</th>
-                                    <th>DDDDDDDDD</th>
-                                    <th>DDDDDDDDD</th>
-                                    <th>DDDDDDDDD</th>
-                                    <th>DDDDDDDDD</th>
-                                    <th>DDDDDDDDD</th>
-                                    <th>DDDDDDDDD</th>
-                                    <th>DDDDDDDDD</th>
-                                    <th>DDDDDDDDD</th>
-                                    <th>DDDDDDDDD</th>
-                                    <th>DDDDDDDDD</th>
-                                    <th>DDDDDDDDD</th>
-                                    <th>DDDDDDDDD</th>
-                                    <th>DDDDDDDDD</th>
-                                    <th>DDDDDDDDD</th>
-                                    <th>DDDDDDDDD</th>
-                                    <th>DDDDDDDDD</th>
-                                    <th>DDDDDDDDD</th>
-                                    <th>DDDDDDDDD</th>
-                                    <th>DDDDDDDDD</th>
-                                    <th>DDDDDDDDD</th>
-                                    
+                                    <th>#</th>
+                                    <th>CÓDIGO APS</th>
+                                    <th>Tipo de documento del trabajador</th>
+                                    <th>N.° de documento del trabajador</th>
+                                    <th>País emisor del documento</th>
+                                    <th>Regimen Laboral (1)</th>
+                                    <th>Situación Educativa</th>
+                                    <th>Ocupación</th>
+                                    <th>Discapacidad</th>
+                                    <th>CUSPP</th>
+                                    <th>SCTR Pensión</th>
+                                    <th>Tipo de contrato de trabajo/condición laboral (1)</th>
+                                    <th>Sujeto a régimen alternativo, acumulativo o atípico de jornada de trabajo y descanso.</th>
+                                    <th>Sujeto a jornada de trabajo máxima</th>
+                                    <th>Sujeto a horario nocturno</th>
+                                    <th>Es sindicalizado (1)</th>
+                                    <th>Periodicidad de la remuneración o ingreso (1)</th>
+                                    <th>Monto de la remuneración básica inicial de los trabajadores sujetos al régimen del D.Leg. 728</th>
+                                    <th>Situación</th>
+                                    <th>Rentas de 5ta categoría exoneradas (inciso e) del Art. 19 de la Ley del Impuesto a la Renta)</th>
+                                    <th>Situación especial del trabajador</th>
+                                    <th>Tipo de pago (1)</th>
+                                    <th>Categoría ocupacional del trabajador</th>
+                                    <th>Convenio para evitar la doble tributación</th>
+                                    <th>N.° de RUC</th>
                                 </tr>
                             </thead>
                             <tbody id="Li_cump">

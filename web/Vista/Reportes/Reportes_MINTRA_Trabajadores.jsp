@@ -86,28 +86,15 @@
                         <table id="datatable_tabletools" class="table table-striped table-bordered table-hover table-responsive" width="100%">
                             <thead>
                                 <tr>
-                                    <th>DDDDDDDDD</th>
-                                    <th>DDDDDDDDD</th>
-                                    <th>DDDDDDDDD</th>
-                                    <th>DDDDDDDDD</th>
-                                    <th>DDDDDDDDD</th>
-                                    <th>DDDDDDDDD</th>
-                                    <th>DDDDDDDDD</th>
-                                    <th>DDDDDDDDD</th>
-                                    <th>DDDDDDDDD</th>
-                                    <th>DDDDDDDDD</th>
-                                    <th>DDDDDDDDD</th>
-                                    <th>DDDDDDDDD</th>
-                                    <th>DDDDDDDDD</th>
-                                    <th>DDDDDDDDD</th>
-                                    <th>DDDDDDDDD</th>
-                                    <th>DDDDDDDDD</th>
-                                    <th>DDDDDDDDD</th>
-                                    <th>DDDDDDDDD</th>
-                                    <th>DDDDDDDDD</th>
-                                    <th>DDDDDDDDD</th>
-                                    <th>DDDDDDDDD</th>
-                                    
+                                    <th>NRO APS</th>
+                                    <th>Nº DE DOCUMENTO DE IDENTIDAD</th>
+                                    <th>COD. TIPO DOCUMENTO DE IDENTIDAD</th>
+                                    <th>APELLIDO PATERNO</th>
+                                    <th>APELLIDO MATERNO</th>
+                                    <th>NOMBRES</th>
+                                    <th>SEXO</th>
+                                    <th>FEC.NACIMIENTO</th>
+                                    <th>FORMATO PARA ARCHIVO DE TEXTO - MASIVO WEB</th>
                                 </tr>
                             </thead>
                             <tbody id="Li_cump">

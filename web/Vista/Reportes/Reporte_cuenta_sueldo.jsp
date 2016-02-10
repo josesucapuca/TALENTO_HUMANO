@@ -86,28 +86,18 @@
                         <table id="datatable_tabletools" class="table table-striped table-bordered table-hover table-responsive" width="100%">
                             <thead>
                                 <tr>
-                                    <th>DDDDDDDDD</th>
-                                    <th>DDDDDDDDD</th>
-                                    <th>DDDDDDDDD</th>
-                                    <th>DDDDDDDDD</th>
-                                    <th>DDDDDDDDD</th>
-                                    <th>DDDDDDDDD</th>
-                                    <th>DDDDDDDDD</th>
-                                    <th>DDDDDDDDD</th>
-                                    <th>DDDDDDDDD</th>
-                                    <th>DDDDDDDDD</th>
-                                    <th>DDDDDDDDD</th>
-                                    <th>DDDDDDDDD</th>
-                                    <th>DDDDDDDDD</th>
-                                    <th>DDDDDDDDD</th>
-                                    <th>DDDDDDDDD</th>
-                                    <th>DDDDDDDDD</th>
-                                    <th>DDDDDDDDD</th>
-                                    <th>DDDDDDDDD</th>
-                                    <th>DDDDDDDDD</th>
-                                    <th>DDDDDDDDD</th>
-                                    <th>DDDDDDDDD</th>
-                                    
+                                    <th>Fecha de requerimientos</th>
+                                    <th>PLazo</th>
+                                    <th>Codigo ApS</th>
+                                    <th>DNI</th>
+                                    <th>Ap Paterno</th>
+                                    <th>Ap Materno</th>
+                                    <th>Nombres</th>
+                                    <th>Banco</th>
+                                    <th>Soles/dolares</th>
+                                    <th>Nro cuenta</th>
+                                    <th>Codigo Interbancario</th>
+                                    <th>Solicita apertura de cuenta    SI / NO</th>
                                 </tr>
                             </thead>
                             <tbody id="Li_cump">

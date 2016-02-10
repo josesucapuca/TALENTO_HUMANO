@@ -86,27 +86,26 @@
                         <table id="datatable_tabletools" class="table table-striped table-bordered table-hover table-responsive" width="100%">
                             <thead>
                                 <tr>
-                                    <th>DDDDDDDDD</th>
-                                    <th>DDDDDDDDD</th>
-                                    <th>DDDDDDDDD</th>
-                                    <th>DDDDDDDDD</th>
-                                    <th>DDDDDDDDD</th>
-                                    <th>DDDDDDDDD</th>
-                                    <th>DDDDDDDDD</th>
-                                    <th>DDDDDDDDD</th>
-                                    <th>DDDDDDDDD</th>
-                                    <th>DDDDDDDDD</th>
-                                    <th>DDDDDDDDD</th>
-                                    <th>DDDDDDDDD</th>
-                                    <th>DDDDDDDDD</th>
-                                    <th>DDDDDDDDD</th>
-                                    <th>DDDDDDDDD</th>
-                                    <th>DDDDDDDDD</th>
-                                    <th>DDDDDDDDD</th>
-                                    <th>DDDDDDDDD</th>
-                                    <th>DDDDDDDDD</th>
-                                    <th>DDDDDDDDD</th>
-                                    <th>DDDDDDDDD</th>
+                                    <th>NRO APS</th>
+                                    <th>CODIGO REGIMEN LABORAL</th>
+                                    <th>Nº DE RUC</th>
+                                    <th>CODIGO DE SUCURSAL (IMPRIMIR REPORTE)</th>
+                                    <th>¿ES MYPE? (S=SI, N= NO)</th>
+                                    <th>Nº DOCUMENTO TRABAJADOR</th>
+                                    <th>TRABAJADOR CON DISCAPACIDAD (S=SI, N=NO)</th>
+                                    <th>CODIGO DE MODALIDAD</th>
+                                    <th>CODIGO DE SUB MODALIDAD</th>
+                                    <th>TIPO CONTRATO (I=INICIO, R=RENOVACION)</th>
+                                    <th>CODIGO DE GRUPO DE OCUPACIONES</th>
+                                    <th>FECHA SUSCRIPCION (DD/MM/YYYY)</th>
+                                    <th>FECHA INICIO LABOR (DD/MM/YYYY)</th>
+                                    <th>FECHA FIN LABOR (DD/MM/YYYY)</th>
+                                    <th>CODIGO TIPO MONEDA</th>
+                                    <th>REMUNERACION</th>
+                                    <th>CODIGO DE TIPO DE REMUNERACION VARIABLE</th>
+                                    <th>DESCRIPCION REMUNERACION VARIABLE</th>
+                                    <th>REMUNERACION EN ESPECIE ( 1 = Si, 0= No)</th>
+                                    <th>FORMATO PARA ARCHIVO DE TEXTO - MASIVO WEB</th>
                                     
                                 </tr>
                             </thead>
@@ -203,7 +202,9 @@
 
             <script>
                 $(document).ready(function () {
+                    
                 });
+                
             </script>
     </body>
 

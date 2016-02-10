@@ -86,28 +86,13 @@
                         <table id="datatable_tabletools" class="table table-striped table-bordered table-hover table-responsive" width="100%">
                             <thead>
                                 <tr>
-                                    <th>DDDDDDDDD</th>
-                                    <th>DDDDDDDDD</th>
-                                    <th>DDDDDDDDD</th>
-                                    <th>DDDDDDDDD</th>
-                                    <th>DDDDDDDDD</th>
-                                    <th>DDDDDDDDD</th>
-                                    <th>DDDDDDDDD</th>
-                                    <th>DDDDDDDDD</th>
-                                    <th>DDDDDDDDD</th>
-                                    <th>DDDDDDDDD</th>
-                                    <th>DDDDDDDDD</th>
-                                    <th>DDDDDDDDD</th>
-                                    <th>DDDDDDDDD</th>
-                                    <th>DDDDDDDDD</th>
-                                    <th>DDDDDDDDD</th>
-                                    <th>DDDDDDDDD</th>
-                                    <th>DDDDDDDDD</th>
-                                    <th>DDDDDDDDD</th>
-                                    <th>DDDDDDDDD</th>
-                                    <th>DDDDDDDDD</th>
-                                    <th>DDDDDDDDD</th>
-                                    
+                                    <th>#</th>
+                                    <th>CÓDIGO APS</th>
+                                    <th>Tipo de documento del trabajador</th>
+                                    <th>Número de documento del trabajador</th>
+                                    <th>País emisor del documento </th>
+                                    <th>RUC propio o del empleador a quien destaco o desplazo Personal</th>
+                                    <th>Código de establecimiento</th>
                                 </tr>
                             </thead>
                             <tbody id="Li_cump">

@@ -86,28 +86,25 @@
                         <table id="datatable_tabletools" class="table table-striped table-bordered table-hover table-responsive" width="100%">
                             <thead>
                                 <tr>
-                                    <th>DDDDDDDDD</th>
-                                    <th>DDDDDDDDD</th>
-                                    <th>DDDDDDDDD</th>
-                                    <th>DDDDDDDDD</th>
-                                    <th>DDDDDDDDD</th>
-                                    <th>DDDDDDDDD</th>
-                                    <th>DDDDDDDDD</th>
-                                    <th>DDDDDDDDD</th>
-                                    <th>DDDDDDDDD</th>
-                                    <th>DDDDDDDDD</th>
-                                    <th>DDDDDDDDD</th>
-                                    <th>DDDDDDDDD</th>
-                                    <th>DDDDDDDDD</th>
-                                    <th>DDDDDDDDD</th>
-                                    <th>DDDDDDDDD</th>
-                                    <th>DDDDDDDDD</th>
-                                    <th>DDDDDDDDD</th>
-                                    <th>DDDDDDDDD</th>
-                                    <th>DDDDDDDDD</th>
-                                    <th>DDDDDDDDD</th>
-                                    <th>DDDDDDDDD</th>
-                                    
+                                    <th>Plazo</th>
+                                    <th>Tipo de requerimiento</th>
+                                    <th>Estado de Requerimiento</th>
+                                    <th>Codigo Aps</th>
+                                    <th>DNI</th>
+                                    <th>Ap Paterno</th>
+                                    <th>Ap Paterno</th>
+                                    <th>Nombres</th>
+                                    <th>Departamento</th>
+                                    <th>Area</th>
+                                    <th>Puesto</th>
+                                    <th>Fecha de Inicio</th>
+                                    <th>Fecha de Cese</th>
+                                    <th>CONDICION LABORAL</th>
+                                    <th>REMUNERACION BÁSICA</th>
+                                    <th>BONO DE ALIMENTOS</th>
+                                    <th>BONIFICACION X PUESTO</th>
+                                    <th>BEV</th>
+                                    <th>SUELDO TOTAL</th>
                                 </tr>
                             </thead>
                             <tbody id="Li_cump">
